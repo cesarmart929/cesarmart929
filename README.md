@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cesar!
 
-I'm an aspiring data analyst with a background in the humanties and business. I know my way around a spreadsheet, and I can deploy my burgeoning SQL skills to clean and analyze data. I also love creating visualizations that are simple yet powerful. My pronouns are he/him.
+I'm an aspiring data analyst with a background in the humanties and business. I know my way around a spreadsheet, and I can deploy my burgeoning SQL skills to clean and analyze data. I also love creating visualizations that are simple yet powerful.
 
 ## 📊 Portfolio Projects
 
