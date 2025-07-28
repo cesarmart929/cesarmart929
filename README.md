@@ -1,4 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Cesar!
+
+I'm an aspiring data analyst with a background in the humanties and business. I know my way around a spreadsheet, and I can deploy my burgeoning SQL to clean and analyze data. I also love creating visualizations that are simple yet powerful. My pronouns are he/him.
+
+## 📊 Portfolio Projects
+
+- [Bank Customer Churn] (https://github.com/cesarmart929/bank-customer-churn)
+
+## 🛠 Skills
+
+- SQL
+- Tableau
+- Microsoft Excel & Google Sheets
+- Writing & General Research
+- Introductory Accounting & Finance
+
+## 📫 How to Reach Me
+
+- [LinkedIn] (www.linkedin.com/in/cesar-martinez99)
+- [GitHub] (https://github.com/cesarmart929)
 
 <!--
 **cesarmart929/cesarmart929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
